@@ -1,4 +1,4 @@
 | name | fevorite movie | why                                         |
 | ---- | ----           | ----                                        |
 | woot | breaking bad   | มันลึกดี ตีแผ่ความคิดทั้งด้านดีและไม่ดีของตัวละครได้ดีมากๆ |
-| Poom-lebrancconvas | breaking good | The teacher who addicted too much cannabis so he decide to be the minister of public health |
+| pppachntks | harry potter   | ตัวละครไม่แบน กลมๆ มีรัก โลภ โกรธ หลง ทำตัวงี่เง่า ทำตัวโง่ๆบ้าง |
